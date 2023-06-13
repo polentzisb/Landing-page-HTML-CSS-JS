@@ -45,6 +45,7 @@ img {
     margin-top: 20px;
     width: 100%;
     color: white;
+    display: inline-flex;
 }
 
 .sub_content {

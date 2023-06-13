@@ -1,5 +1,5 @@
 function saludo() {
-  alert("Hola bienvenido a James Consulting");
+  alert("Hola bienvenido a Another Consulting");
 }
 
 function remove() {
